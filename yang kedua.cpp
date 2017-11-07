@@ -26,5 +26,7 @@ int main () {
 	cin >> a;
 	cout << "   Masukkan tingginya : ";
 	cin >> t;
+	L = 0.5*a*t;
+	cout << "   Luas persegi panjang : "<< L<<endl;
 }
 }
