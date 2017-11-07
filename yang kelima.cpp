@@ -8,5 +8,7 @@ int main () {
  	 cout << "Masukkan tinggi badan dalam cm : ";
  	 cin >> tinggi;
 	
+	 cout << "Masukkan berat badan dalam kg : ";
+ 	 cin >> berat;
 	
 }
