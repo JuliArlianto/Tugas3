@@ -11,5 +11,9 @@ int main () {
 	cin >> bidang;
 
 
-
+	if (bidang == 'P' || bidang == 'p') {	
+	cout << "   Mengitung luas persegi panjang \n";	
+	cout << "   Masukkan panjangnya : ";
+	cin >> p;
+}
 }
