@@ -24,5 +24,7 @@ int main () {
 	cout << "   Mengitung luas segitiga \n";	
 	cout << "   Masukkan alasnya   : ";
 	cin >> a;
+	cout << "   Masukkan tingginya : ";
+	cin >> t;
 }
 }
