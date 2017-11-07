@@ -15,5 +15,8 @@ int main () {
 	cout << "   Mengitung luas persegi panjang \n";	
 	cout << "   Masukkan panjangnya : ";
 	cin >> p;
+	cout << "   Masukkan lebarnya   : ";
+	cin >> l;
 }
+	
 }
